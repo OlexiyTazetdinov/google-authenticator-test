@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44987903-be4e-4fa6-8abc-170356561f75" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/backend/src/auth/models/auth-request.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/users/models/user.model.ts" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/src/app.module.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="38" selection-start-column="38" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="users.service.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/src/users/users.service.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="e#0#44#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.controller.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/src/app.controller.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#49#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="auth.controller.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/backend/src/auth/auth.controller.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#54#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="auth-request.model.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/src/auth/models/auth-request.model.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user.model.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/src/users/models/user.model.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.service.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/src/app.service.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#44#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="36" column="10" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="auth.service.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/src/auth/auth.service.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#42#0" expanded="true" />
+                <marker date="1571307377741" expanded="true" signature="1139:1368" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>type</find>
+      <find>@nestJs</find>
+      <find>@type</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/backend" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/backend/src/app.controller.spec.ts" />
+        <option value="$PROJECT_DIR$/backend/src/schemas/user.schema.ts" />
+        <option value="$PROJECT_DIR$/backend/src/users/schemas/user.schema.ts" />
+        <option value="$PROJECT_DIR$/backend/src/users/models/user.schema.ts" />
+        <option value="$PROJECT_DIR$/backend/src/users/users.module.ts" />
+        <option value="$PROJECT_DIR$/backend/src/app.module.ts" />
+        <option value="$PROJECT_DIR$/backend/src/app.controller.ts" />
+        <option value="$PROJECT_DIR$/backend/src/auth/auth.module.ts" />
+        <option value="$PROJECT_DIR$/backend/src/app.service.ts" />
+        <option value="$PROJECT_DIR$/backend/src/users/users.service.ts" />
+        <option value="$PROJECT_DIR$/backend/src/auth/models/auth-response.model.ts" />
+        <option value="$PROJECT_DIR$/backend/src/auth/models/auth-request.model.ts" />
+        <option value="$PROJECT_DIR$/backend/src/users/models/user.model.ts" />
+        <option value="$PROJECT_DIR$/backend/src/auth/auth.service.ts" />
+        <option value="$PROJECT_DIR$/backend/src/auth/auth.controller.ts" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/backend/node_modules" />
+    <handled-path value="$PROJECT_DIR$/frontend/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/backend/package.json" />
+      <path value="$PROJECT_DIR$/frontend/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="google-authenticator-nodejs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="google-authenticator-nodejs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="google-authenticator-nodejs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="google-authenticator-nodejs" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="google-authenticator-nodejs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="google-authenticator-nodejs" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/backend/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\work\google-authenticator-nodejs\backend\src\users" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44987903-be4e-4fa6-8abc-170356561f75" name="Default" comment="" />
+      <created>1571216393883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571216393883</updated>
+      <workItem from="1571216397623" duration="953000" />
+      <workItem from="1571217862101" duration="20345000" />
+      <workItem from="1571305291270" duration="2744000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="24042000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TypeScript" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2784272" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/utils/module-import.declarator.js" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/utils/module-import.declarator.d.ts" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/utils/metadata.manager.js" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/utils/metadata.manager.d.ts" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/utils/module.declarator.js" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/utils/module.declarator.d.ts" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/utils/source-root.helpers.js" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/utils/source-root.helpers.d.ts" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/utils/path.solver.js" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/utils/path.solver.d.ts" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/utils/module.finder.js" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/utils/module.finder.d.ts" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/utils/name.parser.js" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/utils/name.parser.d.ts" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/utils/module-metadata.declarator.js" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/utils/module-metadata.declarator.d.ts" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/lib/configuration/configuration.factory.js" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/lib/configuration/configuration.factory.d.ts" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/lib/interceptor/interceptor.factory.js" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/lib/interceptor/interceptor.factory.d.ts" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/lib/application/application.factory.js" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/lib/application/application.factory.d.ts" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/lib/middleware/middleware.factory.js" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/lib/middleware/middleware.factory.d.ts" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/lib/controller/controller.factory.js" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/lib/controller/controller.factory.d.ts" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/lib/client-app/angular/angular.factory.js" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/lib/client-app/angular/angular.factory.d.ts" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/lib/interface/interface.factory.js" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/lib/interface/interface.factory.d.ts" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/lib/decorator/decorator.factory.js" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/lib/decorator/decorator.factory.d.ts" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/lib/resolver/resolver.factory.js" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/lib/resolver/resolver.factory.d.ts" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/lib/provider/provider.factory.js" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/lib/provider/provider.factory.d.ts" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/lib/sub-app/sub-app.factory.js" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/lib/sub-app/sub-app.factory.d.ts" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/lib/service/service.factory.js" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/lib/service/service.factory.d.ts" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/lib/library/library.factory.js" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/lib/library/library.factory.d.ts" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/lib/gateway/gateway.factory.js" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/lib/gateway/gateway.factory.d.ts" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/lib/module/module.factory.js" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/lib/module/module.factory.d.ts" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/lib/filter/filter.factory.js" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/lib/filter/filter.factory.d.ts" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/lib/guard/guard.factory.js" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/lib/guard/guard.factory.d.ts" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/lib/class/class.factory.js" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/lib/class/class.factory.d.ts" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/lib/pipe/pipe.factory.js" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/lib/pipe/pipe.factory.d.ts" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/lib/defaults.js" />
+        <option value="$PROJECT_DIR$/backend/node_modules/@nestjs/schematics/lib/defaults.d.ts" />
+        <option value="$PROJECT_DIR$/frontend/node_modules/karma/config.tpl.js" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/backend/src/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" selection-start-column="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/users/users.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/app.controller.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/auth/auth.controller.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/auth/models/auth-request.model.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/users/models/user.model.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/app.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="10" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/auth/auth.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="43" column="22" lean-forward="true" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+            <marker date="1571307377741" expanded="true" signature="1139:1368" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/app.controller.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/app.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/main.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/app.controller.spec.ts" />
+    <entry file="file://$PROJECT_DIR$/backend/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/app.controller.spec.ts" />
+    <entry file="file://$PROJECT_DIR$/backend/src/main.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/node_modules/@nestjs/common/decorators/modules/module.decorator.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/auth/auth.controller.spec.ts" />
+    <entry file="file://$PROJECT_DIR$/backend/src/auth/auth.service.spec.ts" />
+    <entry file="file://$PROJECT_DIR$/backend/src/users/users.service.spec.ts" />
+    <entry file="file://$PROJECT_DIR$/backend/node_modules/@types/mongoose/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="2914" column="4" selection-start-line="2914" selection-start-column="4" selection-end-line="2914" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/users/users.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/auth/auth.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/auth/models/auth-response.model.ts" />
+    <entry file="file://$PROJECT_DIR$/backend/node_modules/speakeasy/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/node_modules/speakeasy/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="36" column="10" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/app.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/users/models/user.model.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/auth/models/auth-request.model.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/app.controller.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/users/users.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" selection-start-column="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/auth/auth.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+            <marker date="1571307377741" expanded="true" signature="1139:1368" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/auth/auth.controller.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
