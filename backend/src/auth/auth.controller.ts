@@ -1,6 +1,7 @@
-import {Body, Controller, Post} from '@nestjs/common';
+import {Body, Controller, Post, Res} from '@nestjs/common';
 import {AuthRequest} from "./models/auth-request.model";
 import {AuthService} from "./auth.service";
+import {Response} from "express";
 
 @Controller('auth')
 export class AuthController {
@@ -9,9 +10,8 @@ export class AuthController {
     }
 
     @Post()
-    async authenticateUser(@Body() authRequest: AuthRequest) {
-        console.log(authRequest.userName);
-        const message = await this.authService.validateUser(authRequest.userName, authRequest.password, authRequest.token);
-        return {message: message};
+    async authenticateUser(@Body() authRequest: AuthRequest, @Res() res: Response) {
+        const response = await this.authService.validateUser(authRequest.userName, authRequest.password, authRequest.token);
+        res.status(response.status).json({message: response.message});
     }
 }

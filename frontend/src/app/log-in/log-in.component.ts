@@ -30,8 +30,11 @@ export class LogInComponent {
       loginModel.password = this.formGroup.get("password").value;
       loginModel.token = this.formGroup.get("code").value;
       this.authService.logIn(loginModel).subscribe((res: AuthResponseModel) => {
-        console.log(res.message);
         this.message = res.message;
+      },(err)=>{
+        if(err.error.message){
+          this.message=err.error.message;
+        }
       })
     }
   }
