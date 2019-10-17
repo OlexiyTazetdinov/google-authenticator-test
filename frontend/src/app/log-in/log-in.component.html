@@ -1,0 +1,17 @@
+<div class="container">
+  <form [formGroup]="formGroup">
+    <mat-form-field>
+      <input matInput placeholder="Username" formControlName="userName" required>
+    </mat-form-field>
+    <mat-form-field>
+      <input matInput placeholder="Password" formControlName="password" type="password" required>
+    </mat-form-field>
+    <mat-form-field>
+      <input matInput placeholder="Code from Google Authenticator" formControlName="code" required>
+    </mat-form-field>
+    <button mat-button color="primary" [disabled]="formGroup.invalid" (click)="logIn()">
+      Log in
+    </button>
+  </form>
+  <label>{{message}}</label>
+</div>

@@ -31,27 +31,6 @@ export class AuthService {
     }
 
     private verifyToken(user: User, token: String): boolean {
-        // console.log("token:", token);
-        // var secret = speakeasy.generateSecret();
-        // // var anotherToken = speakeasy.totp({
-        // //     secret: secret32,
-        // //     encoding: 'ascii'
-        // // });
-        // console.log("SECRET:", secret);
-        // // console.log("SPEAKEASY: ", speakeasy.totp.verifyDelta({
-        // //     secret: user.authCode,
-        // //     encoding: 'ascii',
-        // //     token: token,
-        // //     window: 2,
-        // //     step: 60
-        // // }));
-        // // console.log("SPEAKEASY: ", speakeasy);
-        // console.log("USER AUTH CODE: ", user.authCode);
-        // console.log(speakeasy.totp.verify({
-        //     secret: user.authCode,
-        //     encoding: 'base32',
-        //     token: token,
-        // }));
         return speakeasy.totp.verify({
             secret: user.authCode,
             encoding: 'base32',

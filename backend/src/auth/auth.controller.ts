@@ -11,6 +11,7 @@ export class AuthController {
     @Post()
     async authenticateUser(@Body() authRequest: AuthRequest) {
         console.log(authRequest.userName);
-        return await this.authService.validateUser(authRequest.userName, authRequest.password, authRequest.token);
+        const message = await this.authService.validateUser(authRequest.userName, authRequest.password, authRequest.token);
+        return {message: message};
     }
 }
